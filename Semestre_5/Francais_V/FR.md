@@ -149,5 +149,3 @@ Vous souhaitez **convaincre votre supérieur** d’accorder **un jour supplémen
      * engagement à maintenir la performance.
 
 ---
-
-### **Plan possible :**
